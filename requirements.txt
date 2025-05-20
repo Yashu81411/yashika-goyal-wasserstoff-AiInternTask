@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pymupdf
+pillow
+pytesseract
+chromadb
+openai
+tiktoken
+python-multipart
+python-dotenv
+
